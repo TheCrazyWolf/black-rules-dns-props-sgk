@@ -38,10 +38,16 @@
 ||vk.com^
 ||twitch.tv^
 
-! Games
-||roblox.com^
+! Yandex Games
 ||games.yandex.ru^
 ||games-sdk.yandex.ru^
 ||games.s3.yandex.net^
 ||games.s1.yandex.net^
 ||games.s2.yandex.net^
+
+! Standole Games
+||roblox.com^
+
+! Steam Store
+||store.steampowered.com^
+||steamcommunity.com^
