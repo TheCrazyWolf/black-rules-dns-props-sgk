@@ -1,0 +1,39 @@
+!
+! Title: Rules for AdGuard DNS filter
+! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
+! Version: 1.0.40.51
+!
+
+! AI websites
+||chat.openai.com^
+||gemini.google.com^
+||bard.google.com^
+||blackbox.ai^
+||copilot.microsoft.com^
+||codesandbox.io^
+||replit.com^
+||notion.so^
+||chat.deepseek.com^
+||poe.com^
+||quillbot.com^
+||chat.z.ai^
+||grok.com^
+||perplexity.ai^
+||static.deepseek.com^
+||deepseek.com^
+||deepseekcom.ru^
+||chat.deepseek.com^
+||openrouter.ai^
+||cursor.sh^
+||airocket.chat^
+||1vpn.org^
+||cloudnetcdn.com^
+||techdatacdn.com^
+||trychatgpt.ru^
+||airocket.chat^
+
+! Social Media and Messengers
+||t.me^
+||telegram.org^
+||web.telegram.org^
+||vk.com^
