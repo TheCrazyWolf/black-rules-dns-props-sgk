@@ -40,4 +40,4 @@
 
 ! Games
 ||roblox.com^
-|https://yandex.ru/games/
+||games.yandex.ru^
