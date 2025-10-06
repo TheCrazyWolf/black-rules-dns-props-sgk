@@ -41,3 +41,4 @@
 ! Games
 ||roblox.com^
 ||games.yandex.ru^
+||games-sdk.yandex.ru^
