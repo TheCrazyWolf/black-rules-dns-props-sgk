@@ -1,7 +1,6 @@
 !
 ! Title: Rules for AdGuard DNS filter
-! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Version: 1.0.40.51
+! Description: 
 !
 
 ! AI websites
@@ -37,3 +36,7 @@
 ||telegram.org^
 ||web.telegram.org^
 ||vk.com^
+||twitch.tv^
+
+! Games
+||roblox.com^
