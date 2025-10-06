@@ -51,3 +51,21 @@
 ! Steam Store
 ||store.steampowered.com^
 ||steamcommunity.com^
+
+! Online Games
+||igroutka.ru^
+||vseigru.net^
+||poki.com^
+||crazygames.ru^
+||playhop.com^
+||crazygames.ru^
+||games.pikabu.ru^
+||msn.com^
+||armorgames.com^
+||hahagames.com^
+||frvr.com^
+||pacogames.com^
+||onlinegames.io^
+||gamelayer.ru^
+||numuki.com^
+
