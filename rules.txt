@@ -346,7 +346,6 @@
 ||graycell.ru^
 ||notorgames.net^
 ||pikuco.ru^
-||ok.ru^
 ||livegames.online^
 ||armorgames.com^
 ||twinfinite.net^
