@@ -1,38 +1,55 @@
+# Блокировкать всё
 ||*^
+
+# Разрешаеться:
+
+# Внутренние сайты колледжа
 @@||samgk.ru^
 @@||samgk.tech^
-@@|ya.ru^
-@@|dzen.ru^
-@@|sso.passport.yandex.ru^
-@@|login.vk.com^
-@@|yandex.ru^
-@@||sso.dzen.ru^
-@@|google.com^
-@@|www.google.com^
 @@||wpad.molod59.lan^
 @@||molod59.lan^
-@@||metanit.com^
-@@||api.nuget.org^
-@@||pypi.org^
-@@||plugins.jetbrains.com^ 
-@@||files.pythonhosted.org^
-@@||jetbrains.com^
-@@||stackoverflow.com^
-@@||habr.com^
-@@||python.org^
-@@||devdocs.io^
-@@||connectionstrings.com^
-@@||sqlalchemy.org^
-@@||tiangolo.com^
-@@||palletsprojects.com^
+
+# Сервисы Яндекса
+# по определнным доменам
+@@|yandex.ru^
+@@|ya.ru^
+@@|music.yandex.ru^
+@@||passport.yandex.ru^
+@@||translate.yandex.ru^
+
+# Сервисы ВК 
+@@|dzen.ru^
+@@|login.vk.com^
+@@||sso.dzen.ru^
+
+# Сервисы Google
+@@||translate.google.ru^
+@@||translate.google.com^
+
+# Графика
 @@||figma.com^
 @@||www.figma.com^
+
+# Общая документация по IT
+@@||metanit.com^
+@@||stackoverflow.com^
+@@||habr.com^
+@@||devdocs.io^
+@@||connectionstrings.com^
 @@||kivy.org^
 @@||getbootstrap.com^
 @@||pydantic.dev^
 @@||learn.microsoft.com^
 @@||sqlite.org^
 @@||uneex.org^
-@@||translate.google.ru^
-@@||translate.google.com^
-@@||translate.yandex.ru^
+@@||sqlalchemy.org^
+@@||tiangolo.com^
+@@||palletsprojects.com^
+
+# Доступ к сайтам IT и (или) адекватной работы программ
+@@||nuget.org^
+@@||pypi.org^
+@@||jetbrains.com^ 
+@@||pythonhosted.org^
+@@||jetbrains.com^
+@@||python.org^
