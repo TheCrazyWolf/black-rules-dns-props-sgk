@@ -14,8 +14,16 @@
 @@|yandex.ru^
 @@|ya.ru^
 @@|music.yandex.ru^
+# по всем поддоменами
 @@||passport.yandex.ru^
 @@||translate.yandex.ru^
+@@||yastatic-net.ru^
+@@||yastatic.net^
+@@||sso.ya.ru^
+@@||avatars.mds.yandex.net^
+@@||music.yandex.ru^
+@@||vh.yandex.ru^
+@@||strm.yandex.net^
 
 # Сервисы ВК 
 @@|dzen.ru^
