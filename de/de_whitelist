@@ -6,7 +6,6 @@
 # Внутренние сайты колледжа
 @@||samgk.ru^
 @@||samgk.tech^
-@@||wpad.molod59.lan^
 @@||molod59.lan^
 
 # Сервисы Яндекса
@@ -37,8 +36,8 @@
 @@||translate.google.com^
 
 # Графика
-@@||figma.com^
 @@||www.figma.com^
+@@||drawio.com^
 
 # Общая документация по IT
 @@||metanit.com^
@@ -49,7 +48,6 @@
 @@||kivy.org^
 @@||getbootstrap.com^
 @@||pydantic.dev^
-@@||learn.microsoft.com^
 @@||sqlite.org^
 @@||uneex.org^
 @@||sqlalchemy.org^
@@ -63,6 +61,9 @@
 @@||pythonhosted.org^
 @@||jetbrains.com^
 @@||python.org^
+@@||visualstudio.com^
+@@||microsoft.com^
+@@||vsassets.io^
 
 # Кряки
 @@||ckey.run^
