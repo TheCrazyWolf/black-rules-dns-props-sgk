@@ -34,9 +34,18 @@
 # Сервисы Google
 @@||translate.google.ru^
 @@||translate.google.com^
+@@||accounts.google.com^
+
+# Сервисы Mail
+# по определнным доменам
+@@|mail.ru^
+
+# Сервисы Bing
+# по определнным доменам
+@@|bing.com^
 
 # Графика
-@@||www.figma.com^
+@@||figma.com^
 @@||drawio.com^
 
 # Общая документация по IT
