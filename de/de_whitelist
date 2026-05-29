@@ -6,6 +6,7 @@
 @@|sso.passport.yandex.ru^
 @@|login.vk.com^
 @@|yandex.ru^
+@@||sso.dzen.ru^
 @@|google.com^
 @@|www.google.com^
 @@||wpad.molod59.lan^
@@ -25,6 +26,7 @@
 @@||tiangolo.com^
 @@||palletsprojects.com^
 @@||figma.com^
+@@||www.figma.com^
 @@||kivy.org^
 @@||getbootstrap.com^
 @@||pydantic.dev^
